@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "gravite",
+	"version": "${version}",
+	"name": "Gravite",
+	"description": "A Minecraft mod focused on gravity-based equipment and abilities",
+	"authors": [
+		"teknoaybi"
+	],
+	"contact": {
+		"homepage": "https://teknoaybi.com",
+		"sources": ""
+	},
+	"license": "MIT",
+	"icon": "assets/gravite/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.teknoaybi.gravite.Gravite"
+		],
+		"fabric-datagen": [
+			"net.teknoaybi.gravite.GraviteDataGenerator"
+		]
+	},
+	"mixins": [
+		"gravite.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
