@@ -16,7 +16,7 @@ import java.util.function.Function;
 
 public class ModItems {
     public static final Item GRAVITE = registerItem("gravite", Item::new);
-
+    public static final Item RAW_GRAVITE = registerItem("raw_gravite", Item::new);
 
 
     private static Item registerItem(String name, Function<Item.Properties, Item> function) {
@@ -30,6 +30,7 @@ public class ModItems {
 
         CreativeModeTabEvents.modifyOutputEvent(CreativeModeTabs.INGREDIENTS).register(output -> {
             output.accept(GRAVITE);
+            output.accept(RAW_GRAVITE);
         });
     }
 
