@@ -5,6 +5,8 @@ import net.fabricmc.fabric.api.datagen.v1.FabricPackOutput;
 import net.minecraft.client.data.models.BlockModelGenerators;
 import net.minecraft.client.data.models.ItemModelGenerators;
 import net.minecraft.client.data.models.model.ModelTemplates;
+import net.minecraft.client.data.models.model.TexturedModel;
+import net.teknoaybi.gravite.block.ModBlocks;
 import net.teknoaybi.gravite.item.ModItems;
 
 public class ModModelProvider extends FabricModelProvider {
@@ -14,7 +16,7 @@ public class ModModelProvider extends FabricModelProvider {
 
     @Override
     public void generateBlockStateModels(BlockModelGenerators blockModelGenerators) {
-
+        blockModelGenerators.createTrivialBlock(ModBlocks.GRAVITE_BLOCK, TexturedModel.CUBE);
     }
 
     @Override
