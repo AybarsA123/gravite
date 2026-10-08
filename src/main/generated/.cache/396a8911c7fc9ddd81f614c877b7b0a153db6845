@@ -1,8 +1,11 @@
 // 26.1.2	-999999999-01-01T00:00:00	Gravite/Model Definitions
 98043af17cee2651d47df5e730d69d1111ab0d27 assets/gravite/blockstates/gravite_block.json
+0ef9f67e7e2ad3ef9cba1b3bc35bf9454d98f45e assets/gravite/blockstates/gravite_ore.json
 42609e998788432acad7558f54d3a0d767d8a20e assets/gravite/items/gravite.json
 9d862e7e54a7af88e50062d25d12b1d50d5b191b assets/gravite/items/gravite_block.json
+13a07a7c566b2d85f86fae284b5b45dcc66615ed assets/gravite/items/gravite_ore.json
 2c7afb5190598a0473b40f816f4b9872641d8d17 assets/gravite/items/raw_gravite.json
 636293fdc3de1fea175b1d6cdf234ec3dcace787 assets/gravite/models/block/gravite_block.json
+224c05461ee28d1430639de21b99f5f1712021ed assets/gravite/models/block/gravite_ore.json
 38f5171f77f35757ad1e1b7f9738bc3d4646e175 assets/gravite/models/item/gravite.json
 4fb021916283a530413b8f40e2421f1ffcf69b1c assets/gravite/models/item/raw_gravite.json

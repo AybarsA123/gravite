@@ -1,5 +1,8 @@
 {
   "item.gravite.gravite": "Gravite",
   "item.gravite.raw_gravite": "Raw Gravite",
-  "block.gravite.gravite_block": "Block of Gravite"
+
+
+  "block.gravite.gravite_block": "Block of Gravite",
+  "block.gravite.gravite_ore": "Gravite Ore"
 }
