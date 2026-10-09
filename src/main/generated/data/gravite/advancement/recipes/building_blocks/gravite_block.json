@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_gravite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "gravite:gravite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "gravite:gravite_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_gravite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "gravite:gravite_block"
+    ]
+  }
+}

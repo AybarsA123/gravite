@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "gravite:gravite_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "gravite:gravite"
+  }
+}

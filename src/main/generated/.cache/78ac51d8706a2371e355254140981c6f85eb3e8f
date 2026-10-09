@@ -1,0 +1,9 @@
+// 26.1.2	-999999999-01-01T00:00:00	Gravite/Gravite Mod Recipes
+7ba556bb79b133615a57c73d087ab4a8c70f7ce4 data/gravite/advancement/recipes/building_blocks/gravite_block.json
+c635004fc5debfaf5d20f067a40ef06b6f9df28c data/gravite/advancement/recipes/misc/gravite.json
+fd5ccdf1aaf8c1972ee088b14b33d95891ce570c data/gravite/advancement/recipes/misc/gravite_from_blasting_raw_gravite.json
+6156f13bd957775fff3ad820b56fcb2bae42c882 data/gravite/advancement/recipes/misc/gravite_from_smelting_raw_gravite.json
+39180a203a7e3c8bc66039ff63eccffbd66c8d68 data/gravite/recipe/gravite.json
+a69ab49924f10bede58d386df125985806f2efbe data/gravite/recipe/gravite_block.json
+dc38431c164193febdc443b317ea8a69774eb5de data/gravite/recipe/gravite_from_blasting_raw_gravite.json
+6fc9b87342ab56516ed3189c2cafddaf055ad68e data/gravite/recipe/gravite_from_smelting_raw_gravite.json
