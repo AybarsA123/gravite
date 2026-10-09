@@ -1,0 +1,4 @@
+// 26.1.2	-999999999-01-01T00:00:00	Gravite/Tags for minecraft:block
+7f06aa523beb24373ea40997a2c7c79e218ba874 data/minecraft/tags/block/mineable/pickaxe.json
+2dd3e0beabc9c76ec3a929b7256f418c0218a2b0 data/minecraft/tags/block/needs_diamond_tool.json
+fb0f30e4c43be56365932432912ab6d9f9315776 data/minecraft/tags/block/needs_iron_tool.json

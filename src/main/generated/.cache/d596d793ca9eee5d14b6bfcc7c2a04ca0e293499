@@ -1,0 +1,3 @@
+// 26.1.2	-999999999-01-01T00:00:00	Gravite/Block Loot Tables
+33c321846341fd6ab6597d998dddcbbabceee8ed data/gravite/loot_table/blocks/gravite_block.json
+c0f8d44e8b2d6a9be02f6f5fedb0f90700f0d8a5 data/gravite/loot_table/blocks/gravite_ore.json
